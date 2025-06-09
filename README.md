@@ -20,13 +20,12 @@ This project aims to detect and classify lung diseases using chest X-ray images 
 
 ## 📁 Dataset
 
-The dataset includes labeled chest X-ray images categorized into:
-- Normal
-- Bacterial Pneumonia
-- Viral Pneumonia
-- COVID-19
+Due to size limitations on GitHub, the chest X-ray image dataset is hosted externally.
 
-> Dataset Source: [Kaggle]
+📥 [Click here to download the dataset from Google Drive]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1sM7E_FgiPt1IymPBtuf-ucm0R9lZFmBt?usp=sharing))
+
+> ⚠️ Note: The dataset is for educational and research purposes only.  
+> Ensure responsible use. Do not redistribute or use for commercial purposes.
 
 ---
 
